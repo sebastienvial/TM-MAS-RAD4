@@ -20,4 +20,4 @@ Ce projet qui s’inscrit dans le cadre du MAS de la HES-SO a pour objectif de v
 
 ## Démo Catalogue interactif
 
-[Démo vidéo]()
+[Démo vidéo](https://www.youtube.com/watch?v=KRREwFOcarA)
