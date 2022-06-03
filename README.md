@@ -17,3 +17,7 @@ Ce projet qui s’inscrit dans le cadre du MAS de la HES-SO a pour objectif de v
 [CompoCat4](https://github.com/sebastienvial/compocat4)
 
 [PartsView4](https://github.com/sebastienvial/partsview4)
+
+## Démo Catalogue interactif
+
+[Démo vidéo]()
