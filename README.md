@@ -1,5 +1,6 @@
 # Catalogue de pièces de rechange interactif
 Travail de Master MAS-RAD4
+Date de rendu : 07.06.2022
 ### Objectif
 Ce projet qui s’inscrit dans le cadre du MAS de la HES-SO a pour objectif de valider une solution innovante pour la création, la mise à jour et la publication des catalogues de pièces détachées du Groupe BOBST.  Le modèle proposé réduit d'une part le temps alloué à la réalisation et à la validation technique et améliore d'autre part la qualité de l'information.
 
