@@ -5,6 +5,6 @@ Trvail de Master MAS-RAD4
 
 [Annexes](https://github.com/sebastienvial/TM-MAS-RAD4/tree/main/Annexes)
 
-[CompoCat4](https://www.example.com)
+[CompoCat4](https://github.com/sebastienvial/compocat4)
 
-[PartsView4](https://www.example.com)
+[PartsView4](https://github.com/sebastienvial/partsview4)
